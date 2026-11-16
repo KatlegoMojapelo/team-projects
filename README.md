@@ -1,1 +1,1 @@
-# team-charter
+# team-projects
